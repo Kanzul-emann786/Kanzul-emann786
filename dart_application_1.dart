@@ -56,7 +56,7 @@ void main() {
         continue;
     }
 
-    print('Result: $num1 $operator $num2 = $result');
+    print('Result: $num1');
 
   }
 }
